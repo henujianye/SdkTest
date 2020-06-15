@@ -1,0 +1,6 @@
+framework module MiguAreaSDK {
+  umbrella header "MiguAreaSDK.h"
+
+  export *
+  module * { export * }
+}
